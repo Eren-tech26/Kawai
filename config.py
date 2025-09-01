@@ -43,7 +43,7 @@ UPSTREAM_BRANCH = "master"
 
 GIT_TOKEN = "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"
 
-SUPPORT_CHANNEL = "https://t.me/@kawakiupdate"
+SUPPORT_CHANNEL = "https://t.me/kawakiupdate"
 
 SUPPORT_CHAT = "https://t.me/ATTACHME9T"
 
