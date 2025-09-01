@@ -43,9 +43,9 @@ UPSTREAM_BRANCH = "master"
 
 GIT_TOKEN = "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"
 
-SUPPORT_CHANNEL = "https://t.me/aethonixsupport"
+SUPPORT_CHANNEL = "https://t.me/@kawakiupdate"
 
-SUPPORT_CHAT = "https://t.me/igrischatsupport"
+SUPPORT_CHAT = "https://t.me/ATTACHME9T"
 
 AUTO_LEAVING_ASSISTANT = False
 AUTO_LEAVE_ASSISTANT_TIME = 9000
